@@ -1,0 +1,13 @@
+{
+    "plugins": [
+        "summary",
+        "bottom-navigation"
+    ],
+    "pluginsConfig": {
+        "bottom-navigation": {
+            "iconColor": "#3884FE",
+            "titleColor": "#3884FE",
+            "borderColor": "#3884FE"
+        }
+    }
+}
